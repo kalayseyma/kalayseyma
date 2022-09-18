@@ -31,6 +31,7 @@ google:     Mingzhangyin
 
 #maruku 
 markdown: kramdown
+theme: hyde
 
 gems:
   - jekyll-feed
