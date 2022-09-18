@@ -19,12 +19,21 @@ title: Home
  
 <p> My research focuses on the intersection of Bayesian statistics, machine learning, causal inference, and marketing research. The topics I am interested in include </p>
 
+<!--\1   
   <ul>
    <li> <ins>Probabilistic machine learning</ins>: deep generative model, meta-learning, conformal inference, asymptotics</li>
    <li> <ins>Bayesian inference and modeling</ins>: variational inference, uncertainty estimation, discrete model, variable selection </li>
    <li> <ins>Causal inference</ins>: heterogeneous treatment effects, sensitivity analysis, quasi-experimental design, fairness </li>
    <li> <ins>Marketing research</ins>: customer analytics, online advertising, two-sided markets, unstructured data analysis </li>
   </ul>
+\1-->
+  <ul>
+   <li> <ins> [Probabilistic machine learning](#PML) </ins>: deep generative model, meta-learning, conformal inference, asymptotics  </li>
+   <li> <ins> [Bayesian inference and modeling](#BIM) </ins>: variational inference, uncertainty estimation, discrete model, variable selection </li>
+   <li> <ins> [Causal inference](#CI) </ins>: heterogeneous treatment effects, sensitivity analysis, quasi-experimental design, fairness </li>
+   <li> <ins> [Marketing research](#MR) </ins>: customer analytics, online advertising, two-sided markets, unstructured data analysis </li>
+  </ul>
 
+<!--\1  
 <p> A copy of my CV is available <a href="https://mingzhang-yin.github.io/assets/pdfs/CV_Mingzhang%20Yin.pdf">here </a> (updated on 07/01/2022). </p>
-
+\1-->  
